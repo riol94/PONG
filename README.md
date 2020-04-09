@@ -1,5 +1,5 @@
 # PONG
-A simple Pong game
+A simple Pong game created using the `turtle` module. <br>
 Open terminal with python already installed on your system and run
 `python app.py`
 
